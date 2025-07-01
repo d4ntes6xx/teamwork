@@ -1,0 +1,2 @@
+﻿  client.cpp
+C:\Users\Daniel\source\repos\game\game\client.cpp(1,10): error C1083: Не удается открыть файл включение: boost/beast/websocket.hpp: No such file or directory,
