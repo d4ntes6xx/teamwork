@@ -6,5 +6,5 @@
 ### =====================================================
 ### With respect, Zooneeronn & d4ntes6xx.
 ### =====================================================
-### Download SFML: htttps://disk.yandex.ru/d/ALsbxeunZgrp6g
+### Download SFML: https://disk.yandex.ru/d/ALsbxeunZgrp6g
 ### =====================================================
