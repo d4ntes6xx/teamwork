@@ -20,13 +20,13 @@ find_package(Boost REQUIRED COMPONENTS system)
 
 # Èñõîäíèêè
 add_executable(server
-    server_main.cpp
+    server.cpp
     game.hpp
     network.hpp
 )
 
 add_executable(client
-    client_main.cpp
+    client.cpp
     game.hpp
     network.hpp
 )
